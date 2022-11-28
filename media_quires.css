@@ -1,0 +1,53 @@
+@media only screen and (max-width:993px){
+    .container{
+        max-width: 850px;
+    }
+    .header_logo h1{
+        font-size: 45px;
+    }
+    .nav_link{
+        padding-right: 3px;
+    }
+    .about_items{
+        width: 700px;
+        top: 10%;
+    }
+    .show_menu{
+        float: none;
+    }
+    .show_menu.active.food,
+    .show_menu.active.drinks{
+        margin: 0 auto;
+        margin-top: 15px;
+
+    }
+    .menu_inner {
+        width: 100%;
+    
+    }
+    .more_about_left img{
+        width: 400px;
+        height: 300px;
+    }
+    .award{
+        padding-top: 0px;
+    }
+    .award_text{
+        margin: 0 10px;
+    }
+    .work_schedule_hours{
+        margin: 0 20px;
+    }
+    .work_schedule_wrapper{
+        width: 100%;
+    }
+    .open_hours p,
+    .closed_hours p{
+        font-size: 18px;
+    }
+    .location_map iframe{
+        width: 350px;
+        height: 250px;
+        
+        }
+}

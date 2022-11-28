@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+   
+    margin: 0;
+}
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+p{
+    margin: 0;
+}
+.menu{
+    width: 664px; 
+    background-color: white;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+.menu_title{
+    font-size: 28px;
+    text-transform: uppercase;
+    padding-bottom: 50px;
+  
+}
+
+.top_list_title,
+.bottom_list_title{
+    font-size: 18px;
+    padding-top: 10px;
+}
+.menu_bottom{
+    padding-top: 30px;
+}
